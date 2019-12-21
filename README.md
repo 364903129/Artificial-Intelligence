@@ -13,7 +13,7 @@ Some improvements from the original project:
  - Replaced the graphics systems.
  - Added the ability to generate gifs from any pacman or capture game.
  
- All the students works are at pacai/student
+ ## All the students works are at pacai/student
 
 ### FAQ
 
